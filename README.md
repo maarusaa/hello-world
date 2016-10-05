@@ -1,2 +1,5 @@
 # hello-world
-studying 
+
+hello world :) 
+
+how are you? :P 
